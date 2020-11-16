@@ -8,5 +8,6 @@ class Vehicle
   end
   
   def go
+    puts ""
 
 end
